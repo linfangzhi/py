@@ -14,6 +14,6 @@ while flag == 0:
         print("小了")
     if number > 10:
         print("大了")
-    number = input("再来一次")
+    number = input("再来一次。")
     number = int(number)
 print("结束")
